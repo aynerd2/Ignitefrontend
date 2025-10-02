@@ -1,0 +1,56 @@
+
+
+CONTAINER TAGS:
+
+1. <header> tag
+-This is where you put your weblogo, your website headings or navigation menus
+
+2. <div> tag
+ - this is a parent container that helps to arrange items
+
+3 flex
+- flex in css helps your browser to arrange items in rows and column.
+- it helps you to control how your space is distributed.
+- It allows you to arrange using the FlexBox rules.
+
+4. Alignments
+      ==> justify-start → push items to the left
+      ==> justify-center → center items horizontally
+      ==> justify-end → push items to the right
+      ==> justify-between → spread items out (first at start, last at end)
+      ==> justify-around → equal space around items
+
+5. Items Alignments
+    ==> items-start → align items at the top
+    ==> items-center → align items in the middle
+    ==> items-end → align items at the bottom
+
+    In summary:
+      - flex - turns on flexbox (horizontal direction)
+      - flex-row or flex-col → choose direction.
+      - justify - controls horizontal spacing
+      - items - controls vertical alignment
+
+      IN TAILWIND:
+            TEXT -Large (lg)
+                  - Medium(md)
+                  Small(sm)
+                  Extra small (xs)
+
+FREE IMAGES - https://pixabay.com/images
+https://nodejs.org/en/download
+
+
+JAVASCRIPT
+
+1 Syntax - the way it is written
+2. Semantics - The way it is written
+
+i Variable 
+ii. Function
+iii. Data types - string,boolean,number e.t.c
+iv. Object (Class and method)
+v. Array (Mehtods of array)
+vi. Js DOM manipulation
+vii. Git and Github
+viii. Github actions
